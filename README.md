@@ -16,4 +16,4 @@ Sou um(a) [Sua Profissão ou Área de Interesse]. Atualmente estou aprendendo [T
 
 ### Minhas contribuições
 
-![snake-animation](https://cdn.jsdelivr.net/gh/ramylla/ramylla/github-contribution-grid-snake.svg)
+![snake-animation](https://cdn.jsdelivr.net/gh/ramyllaluiza/ramyllaluiza/github-contribution-grid-snake.svg)
