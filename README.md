@@ -1,4 +1,4 @@
-### Olá, me chamo Ramylla Bartbalho 👋
+### Olá, me chamo Ramylla Barbalho 👋
 
 ---
 
@@ -16,4 +16,4 @@ Sou um(a) [Sua Profissão ou Área de Interesse]. Atualmente estou aprendendo [T
 
 ### Minhas contribuições
 
-![snake-animation](https://github.com/ramyllaluiza/ramyllaluiza/blob/output/github-contribution-grid-snake.svg)
+![snake-animation](https://raw.githubusercontent.com/ramyllaluiza/ramyllaluiza/dist/github-snake.svg)
