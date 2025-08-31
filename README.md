@@ -5,9 +5,9 @@
 ### Minhas contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramyllaluiza/ramyllaluiza/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramyllaluiza/ramyllaluiza/output/github-snake.svg">
-  <img alt="github contributions grid snake animation" src="https://raw.githubusercontent.com/ramyllaluiza/ramyllaluiza/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramyllaluiza/ramyllaluiza/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramyllaluiza/ramyllaluiza/dist/github-snake.svg">
+  <img alt="github contributions grid snake animation" src="https://raw.githubusercontent.com/ramyllaluiza/ramyllaluiza/dist/github-snake.svg">
 </picture>
 
 ---
